@@ -131,7 +131,7 @@ ul {
 .menu__item_search {
     width: 32px;
     height: 32px;
-    background: url(./assets/images/search_icon.svg) center no-repeat;
+    background: url(../assets/images/search_icon.svg) center no-repeat;
 }
 
 .menu__item_search:hover {
@@ -167,7 +167,7 @@ ul {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    background: url(./assets/images/survivalbg.jpg);
+    background: url(../assets/images/survivalbg.jpg);
 }
 
 .survival__content {
@@ -378,7 +378,7 @@ ul {
 
 .footer > .wrapper {
     padding: 150px 0;
-    background: url(./assets/images/footer-bg.jpg);
+    background: url(../assets/images/footer-bg.jpg);
 }
 
 .footer__row {
@@ -429,14 +429,14 @@ ul {
 }
 
 .menu__link_fb {
-    background: url(./assets/images/fb.svg) center no-repeat;
+    background: url(../assets/images/fb.svg) center no-repeat;
 }
 .menu__link_inst {
-    background: url(./assets/images/inst.svg) center no-repeat;
+    background: url(../assets/images/inst.svg) center no-repeat;
 }
 .menu__link_pint {
-    background: url(./assets/images/pint.svg) center no-repeat;
+    background: url(../assets/images/pint.svg) center no-repeat;
 }
 .menu__link_teleg {
-    background: url(./assets/images/teleg.svg) center no-repeat;
+    background: url(../assets/images/teleg.svg) center no-repeat;
 }
